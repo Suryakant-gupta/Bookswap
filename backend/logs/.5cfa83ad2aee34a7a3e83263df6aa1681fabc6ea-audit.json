@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\SSM1201\\Downloads\\project_bookswap\\bookswap-marketplace\\backend\\logs\\.5cfa83ad2aee34a7a3e83263df6aa1681fabc6ea-audit.json",
+    "files": [
+        {
+            "date": 1756297672848,
+            "name": "C:\\Users\\SSM1201\\Downloads\\project_bookswap\\bookswap-marketplace\\backend\\logs\\combined-2025-08-27.log",
+            "hash": "b586788e2ca5d550af6b51a275c2873282412112da6c80b2961846439a6f6c08"
+        },
+        {
+            "date": 1756319934223,
+            "name": "C:\\Users\\SSM1201\\Downloads\\project_bookswap\\bookswap-marketplace\\backend\\logs\\combined-2025-08-28.log",
+            "hash": "d8166fdd9d3bbce7709ee42e2a7a2a2cebf2d27c55401ced199acc72f969271b"
+        }
+    ],
+    "hashType": "sha256"
+}
